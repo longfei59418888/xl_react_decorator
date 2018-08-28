@@ -1,0 +1,16 @@
+{
+  "name": "xl_react_decorator",
+  "version": "1.0.1",
+  "description": "react 的相关装饰器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiaolong",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0"
+  }
+}
